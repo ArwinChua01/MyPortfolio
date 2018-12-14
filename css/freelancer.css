@@ -355,7 +355,7 @@ a:focus, a:hover, a:active {
     ),  */
   url('../img/bg.jpg') !important;
   
-  
+    background-attachment:fixed;
 
 }
 
@@ -366,7 +366,7 @@ a:focus, a:hover, a:active {
     rgba(255, 102, 0, 0.1)
     ), 
   url('../img/bgg.jpg') !important;
-  
+
   
 
 }
